@@ -1,0 +1,95 @@
+/* page main */
+/*body*/
+
+
+/* --------------------------------------- */
+
+/* header */
+header{
+    background-color: rgba(26, 8, 8, 0.5);
+    border: 5px solid red;
+
+}
+
+header nav{
+    border: 3px solid green;
+
+
+}
+
+
+
+
+
+
+header .logo{
+    border: 3px solid green;
+
+}
+
+
+
+/* -------------------------------- */
+
+
+
+
+.intro{
+
+    border: 3px solid rgb(33, 174, 25);
+
+
+}
+
+.intro .text{
+border: 3px solid brown;
+
+
+}
+
+
+.text p {
+    border: 3px solid rgb(22, 245, 1);
+
+
+}
+
+.intro .picture{
+    border: 3px solid rgb(222, 167, 27);
+    
+}
+
+
+
+/*choos your belong*/
+
+.containar{
+
+    margin-bottom: 10vh;
+}
+.containar .card {
+
+    border : 3px solid gray;
+
+}
+
+
+
+
+  h1{
+    margin-top: 10vh;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    color:#ee9465;
+}
+
+
+  
+/*footer*/
+footer{
+    border:5px solid burlywood;
+    height: 30vh;
+    background-color: rgba(26, 8, 8, 0.5);
+
+}
